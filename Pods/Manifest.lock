@@ -1,0 +1,26 @@
+PODS:
+  - Charts (3.1.1):
+    - Charts/Core (= 3.1.1)
+  - Charts/Core (3.1.1)
+  - KYDrawerController (2.0.4)
+  - SQLClient (1.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - KYDrawerController
+  - SQLClient (~> 1.0.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Charts
+    - KYDrawerController
+    - SQLClient
+
+SPEC CHECKSUMS:
+  Charts: 90a4d61da0f6e06684c591e3bcab11940fe61736
+  KYDrawerController: cf5839877c442132123e9d482f458821026defdf
+  SQLClient: 262f95dad0467f173bbca5a7cb4fdcaa6c08affd
+
+PODFILE CHECKSUM: 2f93b25728b70b904c487c03dd955c7ba4df2581
+
+COCOAPODS: 1.5.0
